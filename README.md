@@ -1,7 +1,7 @@
 
 # Restaurants List
 
-This is a simple website for recommended restaurants, created by Node.js and Express. It allows users to explore and search for restaurants.
+This website is for recommended restaurants, created by Node.js and Express. It allows users to explore and search for restaurants.
 
 ## Features
 
@@ -10,10 +10,13 @@ This is a simple website for recommended restaurants, created by Node.js and Exp
 - Search restaurants by using restaurant names or category keywords.
 
 ## Demo
-- Listing restaurants and showing the detailed information of each restaurant.
+- Listing restaurants and showing detailed information about each restaurant.
+
   ![listing restaurants and reading information](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW55bWphN28yYnpndmE0ZWI0Y2htZHFyNzZpMWowaGU1OWY5eTd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7sgXaqsV8yFPY9SuNO/giphy.gif)
 
-- Searching by restaurant names or category keywords
+
+- Searching by restaurant names or category keywords.
+
   ![searching restaurants](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FmN2JvenpzZTZ5dzA0b2w2NHh0ZW4xYmtzenljY29uaXNya3d2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r1SGKS5gm7XKM2BGQx/giphy.gif)
 ## Installation
 
